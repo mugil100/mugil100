@@ -1,3 +1,5 @@
+[![GitHub FUT Card](https://gitfut.com)](https://gitfut.com)
+
 # 👋 Hi, I'm Mugilan  
 
 🚀 **Full-Stack Developer | ML & IoT Enthusiast | Problem Solver**
