@@ -1,57 +1,39 @@
-[![GitHub FUT Card](https://gitfut.com)](https://gitfut.com)
+# Hi, I'm Mugilan 👋
 
-# 👋 Hi, I'm Mugilan  
+**Software Developer | Full-Stack Developer**
 
-🚀 **Full-Stack Developer | ML & IoT Enthusiast | Problem Solver**
+Interested in software engineering, computer networks, data, and embedded systems.
 
-I build **clean, functional, real-world projects** using modern web technologies, data, and hardware systems.
+*Building, learning, and getting a little better every day.*
 
----
+## Tech Stack
 
-## ⚡ What I Do 
-- 🌐 **Full-Stack Web Development** (Frontend + Backend)
-- 🤖 **Machine Learning & Data Analysis**
-- 🔌 **IoT & Embedded Systems**
-- 🧠 Strong focus on **logic, clarity, and simplicity**
+**Languages:** Java, JavaScript, Python, SQL, C++
 
----
+**Frontend:** React, HTML, CSS
 
-## 🛠️ Tech Stack
-**Frontend**
-- HTML, CSS, JavaScript  
-- React.js  
+**Backend:** Node.js, Express.js
 
-**Backend & Databases**
-- Node.js, Express.js  
-- PostgreSQL, MySQL  
+**Databases:** PostgreSQL, MySQL
 
-**Machine Learning & Data**
-- Python, NumPy, Pandas  
-- Scikit-learn, TensorFlow  
-- Data Visualization (Matplotlib, Seaborn)
+**Core:** Data Structures & Algorithms, OOP, REST APIs, Git
 
-**IoT & Hardware**
-- ESP32, NodeMCU, Raspberry Pi  
-- Sensors: DHT11, BME280, Soil Moisture  
-- Firebase, Cloud Integration  
+**Networking:** Computer Networks
 
-**Tools**
-- Git & GitHub  
-- VS Code, Code::Blocks  
-- Linux Basics  
+**Data:** NumPy, Pandas, Scikit-learn, TensorFlow
+
+**Embedded:** ESP32, NodeMCU, Raspberry Pi, Firebase
+
+## Currently
+
+- Building full-stack applications
+- Solving Data Structures & Algorithms problems
+- Expanding my knowledge in networking and system design
+
+## Open To
+
+**Software Development (Primary)** • Networking • Data • Embedded Systems
 
 ---
 
-## 🎯 What Sets Me Apart
-- ✅ Simple, readable code (no unnecessary complexity)
-- ✅ Real-world problem solving
-- ✅ Strong fundamentals + fast learner
-- ✅ Builder mindset, not just tutorials
-
----
-
-## 📫 Let's Connect
-- 💼 Open to **internships & full-time opportunities**
-- 🌱 Currently improving **Full-Stack & ML depth**
-- ⭐ If you like my work, consider starring a repo!
-
+*"Building software that is simple, reliable, and impactful."*
