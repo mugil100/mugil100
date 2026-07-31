@@ -1,6 +1,6 @@
 # Hi, I'm Mugilan 👋
 
-Full Stack Developer & IoT Engineer — building across web development, AI/ML, cloud, and embedded systems. 
+Full Stack Developer & ML Engineer — building across web development, AI/ML, cloud, and embedded systems. 
 AWS Certified Cloud Practitioner.
 
 *Building software that is simple, reliable, and impactful.*
