@@ -9,7 +9,7 @@ AWS Certified Cloud Practitioner.
 
 ## What I've Built
 
-**[SupportIQ](https://github.com/mugil100/SupportIQ)** *(actively building)* — AI-powered customer support ticketing platform with real-time agent-customer chat, AI copilot response generation (Gemini), and a performance analytics dashboard. React · Node.js · PostgreSQL · Socket.IO
+**[SupportIQ](https://github.com/mugil100/SupportIQ)** — AI-powered customer support ticketing platform with real-time agent-customer chat, AI copilot response generation (Gemini), and a performance analytics dashboard. React · Node.js · PostgreSQL · Socket.IO
 
 **[MOV-Stay](https://github.com/mugil100/MOV-Stay)** — Full-stack student housing management platform with room/occupancy tracking, roommate matching, and booking workflows. Deployed.
 
